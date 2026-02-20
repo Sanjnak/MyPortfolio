@@ -1,7 +1,12 @@
+import ThemeToggle from "../components/themeToggle";
+import StarBackground from "../components/starBackground";
 const Home = () => {
   return (
     <>
-      <h1>HomePage</h1>
+      <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
+        <ThemeToggle />
+        <StarBackground />
+      </div>
     </>
   );
 };
