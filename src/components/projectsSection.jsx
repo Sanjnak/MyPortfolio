@@ -9,14 +9,14 @@ const projects = [
     image: "/projects/project1.PNG",
     tags: ["React", "Node.js", "Socket.IO"],
     demoUrl: "https://codealong-3nwz.onrender.com/",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Sanjnak/codealong",
   },
   {
     id: 2,
     title: "FinSight -  Financial Insights & Expense Analytics Platform",
     description:
       "Full-stack financial tracking platform to manage and analyze user expenses and income",
-    image: "/projects/project1.PNG",
+    image: "/projects/project3.PNG",
     tags: ["React", "Node.js", "MongoDB", "Express"],
     demoUrl: "#",
     githubUrl: "#",
@@ -26,10 +26,10 @@ const projects = [
     title: "Smart Travel Planner & Discovery Application",
     description:
       "A responsive travel planning web application and integrated an AI-based recommendation feature to generate personalized travel itineraries based on user preferences",
-    image: "/projects/project1.PNG",
+    image: "/projects/project2.PNG",
     tags: ["React", "Node.js", "Firebase"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://trav-plan.vercel.app/",
+    githubUrl: "https://github.com/Sanjnak/TravPlan",
   },
 ];
 
