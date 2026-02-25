@@ -81,7 +81,7 @@ const ProjectsSection = () => {
                       <ExternalLink size={20} />
                     </a>
                     <a
-                      href=""
+                      href={project.githubUrl}
                       className="text-foreground/80 hover:text0primary transition-colors duration-300"
                     >
                       <Github size={20} />
