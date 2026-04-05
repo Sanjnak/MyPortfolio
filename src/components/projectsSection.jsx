@@ -13,13 +13,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "FinSight -  Financial Insights & Expense Analytics Platform",
+    title: "DevConnect -  A platform to connect developers and make connections",
     description:
-      "Full-stack financial tracking platform to manage and analyze user expenses and income",
+      "Full-stack platform for developers to connect with each other",
     image: "/projects/project3.PNG",
     tags: ["React", "Node.js", "MongoDB", "Express"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://43.204.24.65/",
+    githubUrl: "https://github.com/Sanjnak/DevTinder-Frontend",
   },
   {
     id: 3,
