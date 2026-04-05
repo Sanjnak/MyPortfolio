@@ -18,7 +18,7 @@ const projects = [
       "Full-stack platform for developers to connect with each other",
     image: "/projects/image.png",
     tags: ["React", "Node.js", "MongoDB", "Express"],
-    demoUrl: "https://43.204.24.65/",
+    demoUrl: "http://43.204.24.65/login",
     githubUrl: "https://github.com/Sanjnak/DevTinder-Frontend",
   },
   {
