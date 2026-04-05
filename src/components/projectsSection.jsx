@@ -16,7 +16,7 @@ const projects = [
     title: "DevConnect -  A platform to connect developers and make connections",
     description:
       "Full-stack platform for developers to connect with each other",
-    image: "/projects/project3.PNG",
+    image: "/projects/image.PNG",
     tags: ["React", "Node.js", "MongoDB", "Express"],
     demoUrl: "https://43.204.24.65/",
     githubUrl: "https://github.com/Sanjnak/DevTinder-Frontend",
