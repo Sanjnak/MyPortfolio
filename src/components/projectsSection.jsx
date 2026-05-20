@@ -8,7 +8,7 @@ const projects = [
       "Real-time collaborative code editor supporting multi-user sessions, and implemented live code synchronization using WebSockets.",
     image: "/projects/project1.PNG",
     tags: ["React", "Node.js", "Socket.IO"],
-    demoUrl: "https://codealong-3nwz.onrender.com/",
+    demoUrl: "https://codealong-rho.vercel.app/",
     githubUrl: "https://github.com/Sanjnak/codealong",
   },
   {
